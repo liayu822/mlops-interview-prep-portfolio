@@ -1,39 +1,39 @@
-# Week 01: Python, Git, and Project Structure
+# Week 01：Python、Git、專案結構
 
-## Learning Goals
-
-- 
-
-## Topics Studied
+## 學習目標
 
 - 
 
-## Coding Tasks Completed
+## 本週學習主題
 
 - 
 
-## LeetCode / SQL Problems Solved
+## 完成的 Coding Tasks
 
-| Problem | Topic | Difficulty | Status | Notes |
+- 
+
+## 完成的 LeetCode / SQL 題目
+
+| 題目 | 主題 | 難度 | 狀態 | 筆記 |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-## Project Progress
+## 專案進度
 
 - 
 
-## Bugs Encountered
+## 遇到的 Bugs 或問題
 
 - 
 
-## What I Learned
+## 我學到了什麼
 
 - 
 
-## What I Still Do Not Understand
+## 我還不懂什麼
 
 - 
 
-## Next Steps
+## 下一步
 
 - 

@@ -1,16 +1,16 @@
 # End-to-End ML Production Pipeline for Manufacturing Quality Prediction
 
-## Project Goal
+## 專案目標
 
-This project is designed to become an end-to-end ML production pipeline for predicting manufacturing quality outcomes.
+這個專案的目標，是逐步建立一個端到端 ML production pipeline，用來預測製造流程中的品質結果。
 
-The goal is to practice the full workflow of an applied ML system, from data ingestion to model serving, logging, testing, and lifecycle documentation. This project is intended for interview preparation and resume development.
+這個專案會練習 applied ML system 的完整流程，從 data ingestion、model serving、logging、testing，到 model lifecycle documentation。這是一個以面試準備與履歷整理為目標的實作型專案。
 
-## Problem Statement
+## 問題定義
 
-Manufacturing processes often generate sensor readings, machine settings, inspection results, and production metadata. The project will simulate or use a manufacturing quality dataset to predict whether a product or batch is likely to pass quality inspection.
+製造流程通常會產生 sensor readings、machine settings、inspection results 與 production metadata。這個專案會使用或模擬 manufacturing quality dataset，預測某個產品或批次是否可能通過品質檢查。
 
-## Planned System Components
+## 預計系統元件
 
 - Data ingestion
 - Data cleaning
@@ -26,17 +26,17 @@ Manufacturing processes often generate sensor readings, machine settings, inspec
 - CI pipeline
 - Model lifecycle documentation
 
-## Initial Scope
+## 初始範圍
 
-This repository currently contains documentation and planning only. Code will be added gradually as each weekly milestone is completed.
+目前這個 repository 只包含文件與規劃，不會在一開始就實作完整程式碼。程式碼會依照每週里程碑逐步加入。
 
-## Interview Value
+## 面試價值
 
-This project should help me explain:
+這個專案可以幫助我練習說明：
 
-- How I structure an ML project
-- How data moves through a pipeline
-- How I evaluate model performance
-- How I think about production readiness
-- How I test, package, and document an ML application
-- How I communicate technical tradeoffs clearly
+- 我如何規劃 ML 專案結構
+- 資料如何在 pipeline 中流動
+- 我如何評估模型表現
+- 我如何思考 production readiness
+- 我如何測試、封裝與記錄 ML application
+- 我如何清楚說明技術取捨

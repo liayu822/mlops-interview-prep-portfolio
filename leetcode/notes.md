@@ -1,10 +1,10 @@
-# LeetCode and SQL Practice Notes
+# LeetCode 與 SQL 練習筆記
 
-## Purpose
+## 目的
 
-This folder tracks coding practice for interviews. Each solution should focus on recognizing patterns, explaining tradeoffs, and writing clean code.
+這個資料夾用來追蹤 coding interview 練習。每一題不只要寫出答案，也要練習辨認 pattern、說明 tradeoff，並寫出乾淨可讀的解法。
 
-## Main Topics
+## 主要主題
 
 - Arrays and hashmap
 - Sliding window
@@ -14,27 +14,27 @@ This folder tracks coding practice for interviews. Each solution should focus on
 - Dynamic programming
 - SQL
 
-## How to Record Each Problem
+## 每題紀錄方式
 
-For each problem, use `leetcode/problem_template.md` and save the completed note in the matching topic folder.
+每次練習時，建議複製 `leetcode/problem_template.md`，填完後放到對應主題資料夾。
 
-Recommended filename format:
+建議檔名格式：
 
 ```text
 problem-name.md
 ```
 
-Example:
+範例：
 
 ```text
 leetcode/arrays_hashmap/two-sum.md
 ```
 
-## Review Checklist
+## 複習 Checklist
 
-- Can I explain the pattern?
-- Can I describe the brute-force solution?
-- Can I explain why the optimized solution works?
-- Can I state time and space complexity?
-- Can I solve it again without looking?
-- Can I explain it clearly in an interview?
+- 我能說出這題的 pattern 嗎？
+- 我能解釋 brute-force 解法嗎？
+- 我能說明 optimized solution 為什麼有效嗎？
+- 我能清楚寫出 time complexity 和 space complexity 嗎？
+- 我能不看答案再做一次嗎？
+- 我能在面試中用口語清楚解釋嗎？

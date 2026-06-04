@@ -1,38 +1,38 @@
-# MLOps Interview Notes
+# MLOps 面試筆記
 
-## Core Topics
+## 核心主題
 
 - ML project structure
 - Data pipeline design
 - Model training pipeline
 - Model serving
 - API inference
-- Docker basics
+- Docker 基礎
 - Testing ML systems
-- CI/CD basics
+- CI/CD 基礎
 - Prediction logging
-- Monitoring and drift
+- Monitoring 與 drift
 - Model versioning
 - Model lifecycle documentation
 
-## Interview Questions to Practice
+## 建議練習的面試問題
 
-- What makes an ML system different from a normal software system?
-- Why is prediction logging important?
-- What should be tested in an ML project?
-- How would you deploy a simple ML model?
-- What is data drift?
+- ML system 和一般 software system 有什麼不同？
+- 為什麼 prediction logging 很重要？
+- ML project 中應該測試哪些部分？
+- 你會如何部署一個簡單 ML model？
+- Data drift 是什麼？
 
-## Notes
+## 筆記
 
 - 
 
 ## Production Readiness Checklist
 
-- Reproducible environment
-- Clear data assumptions
-- Tested data processing
-- Tested inference endpoint
-- Logged predictions
-- Documented model version
-- Simple deployment path
+- 可重現的環境
+- 清楚的 data assumptions
+- 已測試的 data processing
+- 已測試的 inference endpoint
+- 已記錄的 predictions
+- 已記錄的 model version
+- 簡單可執行的 deployment path

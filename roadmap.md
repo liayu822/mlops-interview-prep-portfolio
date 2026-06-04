@@ -1,113 +1,113 @@
-# 8-Week Interview Preparation Roadmap
+# 8 週面試準備 Roadmap
 
-## Week 1: Python, Git, Project Structure
+## Week 1：Python、Git、專案結構
 
-**Goals**
+**學習目標**
 
-- Review Python fundamentals used in coding interviews and ML projects.
-- Practice Git workflow: clone, branch, commit, push, and pull request.
-- Set up this repository structure.
+- 複習 coding interview 與 ML 專案常用的 Python 基礎。
+- 練習 Git workflow：clone、branch、commit、push、pull request。
+- 建立這個作品集 repository 的初始結構。
 
-**Deliverables**
+**預期產出**
 
-- Complete `weekly_logs/week01_python_git.md`.
-- Add first Python notes to `interview_notes/python.md`.
-- Solve beginner array/hashmap problems.
+- 完成 `weekly_logs/week01_python_git.md`。
+- 在 `interview_notes/python.md` 加入第一版 Python 筆記。
+- 完成幾題基礎 arrays/hashmap 題目。
 
-## Week 2: SQL, ETL, Data Ingestion
+## Week 2：SQL、ETL、Data Ingestion
 
-**Goals**
+**學習目標**
 
-- Review SQL query patterns.
-- Understand basic ETL concepts.
-- Design a simple data ingestion plan for the ML project.
+- 複習 SQL 常見查詢 pattern。
+- 理解基本 ETL 流程。
+- 為 ML 專案設計簡單的 data ingestion 流程。
 
-**Deliverables**
+**預期產出**
 
-- Add SQL notes and solved SQL problems.
-- Draft an ingestion workflow for manufacturing quality data.
-- Define initial database tables.
+- 新增 SQL 筆記與已解 SQL 題目。
+- 草擬 manufacturing quality data 的 ingestion workflow。
+- 定義初步 database tables。
 
-## Week 3: ML Baseline and Evaluation
+## Week 3：ML Baseline 與 Evaluation
 
-**Goals**
+**學習目標**
 
-- Build a simple baseline model.
-- Select metrics for classification or quality prediction.
-- Understand train/test split and evaluation risks.
+- 建立簡單 baseline model。
+- 選擇 classification 或 quality prediction 適合的評估指標。
+- 理解 train/test split 與 evaluation 風險。
 
-**Deliverables**
+**預期產出**
 
-- Document baseline model choice.
-- Record evaluation metrics and interpretation.
-- Add machine learning interview notes.
+- 記錄 baseline model 的選擇原因。
+- 記錄 evaluation metrics 與解讀方式。
+- 新增 machine learning 面試筆記。
 
-## Week 4: Feature Engineering and Error Analysis
+## Week 4：Feature Engineering 與 Error Analysis
 
-**Goals**
+**學習目標**
 
-- Create useful features from raw manufacturing data.
-- Compare model performance before and after feature engineering.
-- Analyze false positives, false negatives, and difficult cases.
+- 從原始 manufacturing data 建立有用特徵。
+- 比較 feature engineering 前後的模型表現。
+- 分析 false positives、false negatives 與困難案例。
 
-**Deliverables**
+**預期產出**
 
-- Feature engineering notes.
-- Error analysis summary.
-- Updated project plan.
+- Feature engineering 筆記。
+- Error analysis 摘要。
+- 更新 project plan。
 
-## Week 5: FastAPI Inference Service
+## Week 5：FastAPI Inference Service
 
-**Goals**
+**學習目標**
 
-- Learn the basics of FastAPI.
-- Design a prediction request and response schema.
-- Build toward a simple inference endpoint.
+- 學習 FastAPI 基礎。
+- 設計 prediction request 與 response schema。
+- 為簡單 inference endpoint 做準備。
 
-**Deliverables**
+**預期產出**
 
-- API design notes.
-- Planned endpoint contract.
-- Initial service structure when implementation begins.
+- API design notes。
+- 預計的 endpoint contract。
+- 開始實作時可使用的 service structure 規劃。
 
-## Week 6: Docker, Pytest, and GitHub Actions
+## Week 6：Docker、Pytest、GitHub Actions
 
-**Goals**
+**學習目標**
 
-- Learn basic Docker and Docker Compose concepts.
-- Add tests for data processing and API behavior.
-- Understand CI with GitHub Actions.
+- 理解 Docker 與 Docker Compose 基礎。
+- 為 data processing 與 API behavior 加入測試。
+- 理解 GitHub Actions CI 的基本概念。
 
-**Deliverables**
+**預期產出**
 
-- Testing plan.
-- Docker Compose plan.
-- CI workflow plan.
+- Testing plan。
+- Docker Compose plan。
+- CI workflow plan。
 
-## Week 7: Model Lifecycle, Logging, and Monitoring
+## Week 7：Model Lifecycle、Logging、Monitoring
 
-**Goals**
+**學習目標**
 
-- Understand model versioning and lifecycle stages.
-- Add prediction logging design.
-- Learn monitoring concepts such as drift and data quality checks.
+- 理解 model versioning 與 model lifecycle。
+- 設計 prediction logging。
+- 學習 monitoring、drift 與 data quality checks 的基礎概念。
 
-**Deliverables**
+**預期產出**
 
-- Model lifecycle documentation.
-- Prediction logging design.
-- Monitoring notes.
+- Model lifecycle documentation。
+- Prediction logging design。
+- Monitoring notes。
 
-## Week 8: Resume Packaging and Mock Interview Review
+## Week 8：履歷整理與 Mock Interview Review
 
-**Goals**
+**學習目標**
 
-- Convert project work into resume bullets.
-- Prepare interview stories using the STAR format.
-- Review weak areas and plan the next learning cycle.
+- 將專案內容轉換成 resume bullets。
+- 使用 STAR format 準備面試故事。
+- 回顧弱點，規劃下一輪學習。
 
-**Deliverables**
+**預期產出**
 
-- Updated `docs/resume_bullets.md`.
-- Updated `docs/project_story.md`.
-- Final 8-week reflection.
+- 更新 `docs/resume_bullets.md`。
+- 更新 `docs/project_story.md`。
+- 完成 8 週總結反思。

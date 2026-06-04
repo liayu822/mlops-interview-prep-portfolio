@@ -1,30 +1,30 @@
-# Machine Learning Interview Notes
+# Machine Learning 面試筆記
 
-## Core Topics
+## 核心主題
 
-- Supervised vs unsupervised learning
+- Supervised learning vs unsupervised learning
 - Classification vs regression
-- Train, validation, and test split
-- Overfitting and underfitting
-- Bias and variance
+- Train、validation、test split
+- Overfitting 與 underfitting
+- Bias 與 variance
 - Feature engineering
 - Evaluation metrics
 - Cross-validation
 - Error analysis
-- Model interpretability basics
+- Model interpretability 基礎
 
-## Interview Questions to Practice
+## 建議練習的面試問題
 
-- How do you know if a model is overfitting?
-- What metrics would you use for an imbalanced classification problem?
-- Why is a baseline model useful?
-- How would you handle missing values?
-- How would you improve a model that performs poorly?
+- 你如何判斷 model 是否 overfitting？
+- 如果是 imbalanced classification problem，你會選什麼 metrics？
+- 為什麼 baseline model 很重要？
+- 你會如何處理 missing values？
+- 如果 model 表現不好，你會如何改善？
 
-## Notes
+## 筆記
 
 - 
 
-## Examples I Can Explain
+## 我能解釋的範例
 
 - 

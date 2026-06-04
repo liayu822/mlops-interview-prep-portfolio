@@ -1,47 +1,47 @@
-# Project Story
+# 專案面試故事
 
-Use this file to prepare a clear interview explanation for the ML production pipeline project.
+這個文件用來準備 ML production pipeline project 的面試說明。
 
-## Short Summary
+## 簡短摘要
 
-I built an end-to-end ML production pipeline project for manufacturing quality prediction. The goal was to practice the workflow of turning raw data into a model-backed application with evaluation, API serving, logging, testing, and documentation.
+我建立了一個端到端 ML production pipeline 專案，用來預測 manufacturing quality。這個專案的目標，是練習如何把 raw data 轉換成 model-backed application，並包含 evaluation、API serving、logging、testing 與 documentation。
 
 ## STAR Format
 
 ## Situation
 
-Manufacturing quality prediction is a practical ML problem where teams want to identify likely defects or quality failures before final inspection.
+Manufacturing quality prediction 是一個實務 ML 問題。製造團隊希望在最終品質檢查前，提早辨識可能發生缺陷或品質失敗的產品或批次。
 
 ## Task
 
-My goal was to design and gradually build a production-oriented ML pipeline that could ingest data, clean it, train a model, evaluate performance, serve predictions through an API, and log predictions for future review.
+我的目標是設計並逐步建立一個 production-oriented ML pipeline。這個 pipeline 需要能夠 ingest data、clean data、train model、evaluate performance、透過 API 提供 predictions，並記錄 predictions 以支援後續檢查與分析。
 
 ## Action
 
-- Planned the repository structure and project documentation.
-- Designed the data ingestion and cleaning workflow.
-- Planned a SQL schema for storing raw data, cleaned data, predictions, and model metadata.
-- Planned model training, evaluation, and error analysis steps.
-- Designed future FastAPI inference, Docker Compose, tests, CI, and model lifecycle documentation.
+- 規劃 repository structure 與 project documentation。
+- 設計 data ingestion 與 data cleaning workflow。
+- 規劃 SQL schema，用來儲存 raw data、cleaned data、predictions 與 model metadata。
+- 規劃 model training、evaluation 與 error analysis steps。
+- 規劃未來的 FastAPI inference、Docker Compose、tests、CI 與 model lifecycle documentation。
 
 ## Result
 
-This project gives me a concrete example to discuss in interviews. It demonstrates applied ML thinking, software engineering workflow, MLOps awareness, and the ability to document technical decisions clearly.
+這個專案讓我有一個可以在面試中具體說明的作品。它展示了 applied ML thinking、software engineering workflow、MLOps awareness，以及清楚記錄技術決策的能力。
 
-## Interview Talking Points
+## 面試可以強調的重點
 
-- Why manufacturing quality prediction is a useful ML problem
-- How data moves through the pipeline
-- Why baseline models matter
-- How evaluation metrics connect to business risk
-- How API serving changes the project from a notebook into an application
-- Why logging, tests, and documentation matter for production readiness
+- 為什麼 manufacturing quality prediction 是一個有實務價值的 ML 問題
+- 資料如何在 pipeline 中流動
+- 為什麼 baseline models 很重要
+- Evaluation metrics 如何連結到 business risk
+- API serving 如何讓專案從 notebook 變成 application
+- 為什麼 logging、tests 與 documentation 對 production readiness 很重要
 
-## Questions I Should Be Ready to Answer
+## 我應該準備回答的問題
 
-- What data would you need for this problem?
-- How would you handle missing or noisy sensor data?
-- What metric would you choose and why?
-- How would you test the inference API?
-- How would you monitor the model after deployment?
-- What would you improve next?
+- 這個問題需要哪些資料？
+- 你會如何處理 missing 或 noisy sensor data？
+- 你會選擇什麼 metric？為什麼？
+- 你會如何測試 inference API？
+- 部署後你會如何 monitor model？
+- 下一步你會改善什麼？

@@ -1,8 +1,8 @@
-# Python Interview Notes
+# Python 面試筆記
 
-## Core Topics
+## 核心主題
 
-- Data types: list, tuple, set, dict
+- Data types：list、tuple、set、dict
 - Control flow
 - Functions
 - Classes and objects
@@ -11,20 +11,20 @@
 - Error handling
 - File handling
 - Virtual environments
-- Common standard library modules
+- 常用 standard library modules
 
-## Interview Questions to Practice
+## 建議練習的面試問題
 
-- What is the difference between a list and a tuple?
-- When would you use a dictionary?
-- What is the difference between shallow copy and deep copy?
-- How does exception handling work in Python?
-- What is a generator and when is it useful?
+- list 和 tuple 的差異是什麼？
+- 什麼情況會使用 dictionary？
+- shallow copy 和 deep copy 的差異是什麼？
+- Python 的 exception handling 如何運作？
+- generator 是什麼？什麼情況適合使用？
 
-## Notes
+## 筆記
 
 - 
 
-## Examples I Can Explain
+## 我能解釋的範例
 
 - 

@@ -1,30 +1,30 @@
-# SQL Interview Notes
+# SQL 面試筆記
 
-## Core Topics
+## 核心主題
 
-- SELECT, WHERE, ORDER BY
-- GROUP BY and HAVING
-- INNER JOIN, LEFT JOIN, RIGHT JOIN
+- SELECT、WHERE、ORDER BY
+- GROUP BY 與 HAVING
+- INNER JOIN、LEFT JOIN、RIGHT JOIN
 - Subqueries
 - Common table expressions
 - Window functions
 - Aggregation
 - NULL handling
-- Index basics
-- ETL and data quality checks
+- Index 基礎
+- ETL 與 data quality checks
 
-## Interview Questions to Practice
+## 建議練習的面試問題
 
-- What is the difference between WHERE and HAVING?
-- What is the difference between INNER JOIN and LEFT JOIN?
-- How do window functions differ from GROUP BY?
-- How would you find duplicate records?
-- How would you validate an ETL pipeline?
+- WHERE 和 HAVING 的差異是什麼？
+- INNER JOIN 和 LEFT JOIN 的差異是什麼？
+- Window functions 和 GROUP BY 有什麼不同？
+- 如何找出 duplicate records？
+- 你會如何驗證 ETL pipeline？
 
-## Notes
+## 筆記
 
 - 
 
-## Query Patterns
+## 常見 Query Patterns
 
 - 

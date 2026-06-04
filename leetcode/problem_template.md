@@ -1,30 +1,30 @@
-# Problem Name
+# 題目名稱
 
-## Link
-
-- 
-
-## Topic
+## 題目連結
 
 - 
 
-## Difficulty
+## 主題
 
 - 
 
-## Problem Summary
-
-Write the problem in my own words.
-
-## Initial Approach
+## 難度
 
 - 
 
-## Final Solution Idea
+## 題目摘要
+
+用自己的話描述這題在問什麼。
+
+## 一開始的想法
 
 - 
 
-## Code
+## 最終解法概念
+
+- 
+
+## 程式碼
 
 ```python
 
@@ -38,13 +38,13 @@ Write the problem in my own words.
 
 - 
 
-## Mistakes or Bugs
+## 寫錯或卡住的地方
 
 - 
 
-## Interview Explanation
+## 面試時我會怎麼解釋
 
-Explain the solution as if speaking to an interviewer.
+請用像是在對面試官說明的方式，寫下這題的解法。
 
 ## Follow-up Questions
 
