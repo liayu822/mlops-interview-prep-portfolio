@@ -4,6 +4,19 @@
 
 我會用這裡記錄每週學習進度、LeetCode 與 SQL 練習、端到端 ML production pipeline 專案、面試筆記，以及未來可以放進履歷的專案摘要。重點不是只把題目或課程做完，而是留下清楚的學習脈絡、實作過程和技術成長紀錄。
 
+## Current Status
+
+This portfolio is currently in active development.
+
+Current phase:
+
+- Week: Week 1
+- Main focus: Python project structure, Git workflow, and baseline repository setup
+- Main project status: Planning, initial project scaffolding, and first executable utility modules
+- Next milestone: Implement data ingestion workflow and SQL schema for the ML production pipeline
+
+This section will be updated weekly to reflect actual progress, completed deliverables, and remaining gaps.
+
 ## 目標職缺
 
 - AI/ML Engineer
@@ -11,6 +24,29 @@
 - Entry-level MLOps Engineer
 - IT Automation Engineer
 - Data 或 ML 方向的 Software Engineer
+
+## Skills-to-Evidence Map
+
+| Skill Area | Evidence in This Repository |
+| --- | --- |
+| Python programming | Project scripts, LeetCode solutions, utility modules |
+| SQL and data handling | SQL practice records, database schema, data ingestion scripts |
+| Machine learning | Model training, evaluation reports, error analysis |
+| API development | FastAPI inference service in the ML production project |
+| Software engineering workflow | Git history, project structure, tests, documentation |
+| MLOps basics | Model versioning, prediction logging, monitoring notes |
+| Interview preparation | Topic notes, project stories, resume bullets |
+
+## Learning Principles
+
+This repository follows three principles:
+
+1. Build before over-studying
+   I use each week's topic to produce a concrete deliverable instead of only reading tutorials.
+2. Keep work explainable
+   Every solution or project module should include notes on the design choice, trade-offs, and mistakes.
+3. Connect learning to interview evidence
+   Each completed task should eventually support a resume bullet, project explanation, or technical interview answer.
 
 ## Repository 目的
 
@@ -73,27 +109,28 @@ LeetCode 與 SQL 練習依主題分類：
 
 題目模板放在 `leetcode/problem_template.md`。
 
-## 專案進度追蹤方式
+## Main Project
 
 主要專案是：
 
 **End-to-End ML Production Pipeline for Manufacturing Quality Prediction**
 
-這個專案未來會逐步包含：
+This project simulates a manufacturing quality prediction scenario. The goal is to build a practical ML system that starts from raw production-like data and gradually evolves into a deployable prediction service.
 
-- Data ingestion
-- Data cleaning
-- SQL database schema
-- Feature engineering
-- Model training
-- Evaluation
-- Error analysis
-- FastAPI inference endpoint
-- Prediction logging
-- Docker Compose
-- Tests
-- CI pipeline
-- Model lifecycle documentation
+The project is designed to demonstrate the full AI/ML solution lifecycle:
+
+1. Data ingestion and cleaning
+2. SQL-based data storage and retrieval
+3. Feature engineering
+4. Model training and evaluation
+5. Error analysis and model explanation
+6. FastAPI-based inference service
+7. Prediction logging and model version tracking
+8. Docker-based deployment
+9. Testing and CI workflow
+10. Model lifecycle and monitoring documentation
+
+This project is aligned with AI/ML Engineer and entry-level MLOps roles that require both model development and productionization awareness.
 
 專案文件從 `projects/ml-production-pipeline/` 開始。
 
@@ -127,4 +164,4 @@ LeetCode 與 SQL 練習依主題分類：
 - 展示 Git、文件撰寫、測試與工程流程能力
 - 根據實際做過的內容產出履歷素材
 
-長期目標是讓我不只會寫程式，也能清楚說明技術決策、專案架構和實作取捨。
+長期目標是讓我不只會寫程式，也能清楚說明 system design choices、model evaluation results、trade-offs、failure cases，以及 production-readiness concerns。
