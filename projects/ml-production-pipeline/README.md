@@ -30,6 +30,37 @@
 
 目前這個 repository 只包含文件與規劃，不會在一開始就實作完整程式碼。程式碼會依照每週里程碑逐步加入。
 
+## Current Implementation
+
+Week 1 has started the first executable project structure:
+
+```text
+src/
+  data/
+  features/
+  models/
+  api/
+  utils/
+tests/
+```
+
+Implemented modules:
+
+- `src/utils/logger.py`: shared logger helper with duplicate-handler protection
+- `src/data/load_data.py`: basic local CSV and JSON loading utilities
+- `tests/test_logger.py`: unit tests for logger behavior
+
+This is intentionally small. The purpose of Week 1 is to turn the project from planning documentation into a working Python project with testable code.
+
+## How to Run Tests
+
+From this project folder:
+
+```bash
+python -m pip install -r requirements.txt
+python -m pytest
+```
+
 ## 面試價值
 
 這個專案可以幫助我練習說明：
